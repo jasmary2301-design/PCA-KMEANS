@@ -5,13 +5,13 @@ The project applies  K-Means clustering with Principal Component Analysis (PCA) 
 
 **Get the KMEANS+PCA dataset using below line:**
 #KMEANS
-df=Data
+```df=Data
 df.head()
-
+```
 #PCA
-df=Data # KMeans + PCA
+```df=Data # KMeans + PCA
 df
-
+```
 **Model Confusion Matrix Heatmap :**
 
 #KMEANS
