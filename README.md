@@ -7,13 +7,16 @@ The project applies  K-Means clustering with Principal Component Analysis (PCA) 
 #KMEANS
 df=Data
 df.head()
+
 #PCA
 df=Data # KMeans + PCA
 df
 
 **Model Confusion Matrix Heatmap :**
+
 #KMEANS
 <img width="559" height="413" alt="image" src="https://github.com/user-attachments/assets/de71ab9e-1248-491d-a83d-6d0c6eda058b" />
+
 #PCA
 <img width="546" height="435" alt="image" src="https://github.com/user-attachments/assets/ef00d402-7b5f-4a8f-8226-07a910b635cc" />
 
